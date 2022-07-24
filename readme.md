@@ -12,3 +12,5 @@ Integration points:
  - Rewrite URLs to our Serverless Function: [vercel.json#rewrites](vercel.json).
  - Build on Vercel: [package.json#scripts["vercel-build"]](package.json).
  - Local Development: [package.json#scripts["dev"]](package.json).
+
+This example was written by: [github.com/AaronBeaudoin](https://github.com/AaronBeaudoin).
