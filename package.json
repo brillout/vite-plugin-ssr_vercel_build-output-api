@@ -6,11 +6,11 @@
   },
   "dependencies": {
     "@vercel/ncc": "^0.34.0",
-    "@vitejs/plugin-vue": "^1.10.1",
+    "@vitejs/plugin-vue": "^3.0.3",
     "@vue/compiler-sfc": "^3.2.24",
     "@vue/server-renderer": "^3.2.24",
-    "vite": "^2.9.14",
-    "vite-plugin-ssr": "0.4.9",
+    "vite": "^3.0.9",
+    "vite-plugin-ssr": "0.4.29",
     "vue": "^3.2.24"
   }
 }
